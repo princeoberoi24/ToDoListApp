@@ -1,0 +1,4 @@
+- Use Table Views
+- Store data and images with UserDefaults
+- Style images
+- Encode and decode data
